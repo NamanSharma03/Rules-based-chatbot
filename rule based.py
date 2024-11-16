@@ -10,7 +10,7 @@ class RuleBot:
     random_question = (
         "why are you here?",
         "Are there many humans like you?",
-        "what do you consume for sustence?",
+        "what do you consume for existence?",
         "Is there Intelligent life on this planet?",
         "does Earth have a leader ?"
     )
